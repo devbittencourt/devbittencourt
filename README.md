@@ -40,7 +40,21 @@
 
 </div>
 
-
 ##
+
+ <p align="center" >
+    <img src="https://github-profile-trophy.vercel.app/?username=devbittencourt&row=1&theme=dracula"/>
+  <br/>
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
