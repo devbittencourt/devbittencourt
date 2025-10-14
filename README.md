@@ -7,4 +7,4 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbittencourt&layout=compact&theme=dracula)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=devbittencourt&theme=dracula)
-<div>
+</div>
