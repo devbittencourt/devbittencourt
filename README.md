@@ -42,7 +42,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devbittencourt&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thales's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devbittencourt&bg_color=0d1117&color=5dade2&line=3498db&point=2980b9&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
