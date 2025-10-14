@@ -6,7 +6,7 @@
 </div>
 
 
----
+##
 
 ### 🚀 Minhas Stacks
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
@@ -21,7 +21,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/git.png" title="GitFlow"/></code>
 
----
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
