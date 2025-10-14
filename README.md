@@ -37,7 +37,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
   <img width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" title="MySQL"/>
-  <img width="40px" src="https://static.vecteezy.com/ti/vetor-gratis/t1/8328554-estilo-de-icone-de-api-gratis-vetor.jpg" title="API"/>
+  <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJ5LQdYvhS6ANhCJiuDO6ZPrJc4k_e8r2fQ&s" title="API"/>
   <img width="40px" src="https://static.vecteezy.com/system/resources/previews/010/518/719/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" title="AI"/>
   <img width="40px" src="https://web.keyrus.com/hubfs/Amazon-Web-Services-AWS-Logo.png" title="AWS"/>
   <img width="40px" src="" title=""/>
