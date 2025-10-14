@@ -1,4 +1,8 @@
-## Hi there, I'm Thales Bittencourt Software Engineer
+<!-- FRASE DE IMPACTO COM EFEITO DE DIGITAÇÃO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Não+é+só+codar.+É+sobre+conectar,+resolver+e+construir+o+futuro." alt="Typing impact phrase" />
+</p>
+## 
 <!-- NOME COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Thales+Bittencourt;Software+Engineer" alt="Typing SVG" />
