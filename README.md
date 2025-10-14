@@ -1,10 +1,10 @@
 ## Hi there, I'm Thales Bittencourt Software Engineer
 
-<div>
-  
-  ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=devbittencourt&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbittencourt&layout=compact&theme=tokyonight)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=devbittencourt&theme=tokyonight)
+<div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbittencourt&show_icons=true&theme=tokyonight" alt="Thales GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbittencourt&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=devbittencourt&theme=tokyonight" alt="GitHub Streak" />
+</p>
