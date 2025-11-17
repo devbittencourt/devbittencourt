@@ -41,7 +41,12 @@
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS"/>
   <img width="40px" src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django"/>
-  <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUxPd0ZCgwR5jxgFfqQnnxKzlskUK26UC0PRBIfu4CEQoykczSDbbR5zcjgf-iQhk6ac" title="Pandas"/>
+  <img
+    width="40px"
+    style="border-radius: 50%;"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUxPd0ZCgwR5jxgFfqQnnxKzlskUK26UC0PRBIfu4CEQoykczSDbbR5zcjgf-iQhk6ac"
+    title="Pandas"
+  />
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL"/>
   <img width="40px" src="" title=""/>
 
