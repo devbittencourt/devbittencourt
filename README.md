@@ -37,8 +37,8 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
   <img width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" title="MySQL"/>
-  <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJ5LQdYvhS6ANhCJiuDO6ZPrJc4k_e8r2fQ&s" title="API"/>
-  <img width="40px" src="https://static.vecteezy.com/system/resources/previews/010/518/719/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" title="AI"/>
+  <img width="40px" src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" title="API"/>
+  <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS"/>
   <img width="40px" src="" title=""/>
 
