@@ -41,7 +41,7 @@
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS"/>
   <img width="40px" src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django"/>
-  <img width="40" height="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0iYyI+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMCIgcj0iMjAiLz48L2NsaXBQYXRoPgogIDwvZGVmcz4KICA8aW1hZ2UgY2xpcC1wYXRoPSJ1cmwoI2MpIiBocmVmPSJodHRwczovL2VuY3J5cHRlZC10bmIwLmdvb2dsZWFwaXMuY29tL2ltYWdlcz9xPXRibjphTkQ5R2NSWVV4UGQwWkNnd1I1angzRmdmcU5ueGt6bGtrelVLMjZVQzBQUkJJZnU0Q0VRb3lrY3pTRGJiUjV6Y2pnZi1pUWhrNmFjIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIi8+Cjwvc3ZnPg==" title="Pandas" alt="Pandas" />
+  <img width="40px" src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png" title=""/>
 
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL"/>
   <img width="40px" src="" title=""/>
