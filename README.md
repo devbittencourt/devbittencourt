@@ -36,7 +36,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
-  <img width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" title="MySQL"/>
+  <img width="40px" src="[https://cdn.worldvectorlogo.com/logos/mysql-3.svg](https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg)" title="MySQL"/>
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" title="API"/>
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS"/>
