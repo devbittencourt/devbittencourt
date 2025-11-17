@@ -41,7 +41,7 @@
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS"/>
   <img width="40px" src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django"/>
-  <img width="40px" src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png" title="Pandas"/>
+  <img width="40px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" title="Pandas"/>
 
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL"/>
   <img width="40px" src="" title=""/>
