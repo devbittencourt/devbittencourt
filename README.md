@@ -33,7 +33,7 @@
   <img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-github-icon-svg-download-png-3073768.png?f=webp&w=128" title="GitHub"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"/>
+  <img width="40px" src="https://www.ciabyte.com.br/imagens/curso-html5-css3.png" title="HTML"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
   <img width="40px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png" title="MySQL"/>
