@@ -35,7 +35,7 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
   <img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-download-png-1175208.png?f=webp" title="HTML"/>
   <img width="40px" src="https://cdn-icons-png.freepik.com/256/732/732190.png?semt=ais_white_label" title="CSS"/>
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png" title="C#"/>
   <img width="40px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png" title="MySQL"/>
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" title="API"/>
   <img width="40px" src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" title="AI"/>
