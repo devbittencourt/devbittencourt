@@ -24,7 +24,7 @@
 ### 🚀 Stacks
 
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="Javascript"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
   <img width="40px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" title="Node.js"/>
