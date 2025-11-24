@@ -29,7 +29,8 @@
 ##
 
 ### 🚀 Stacks
-
+  
+  
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="Javascript"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
@@ -53,7 +54,8 @@
   <img width="40px" src="" title=""/>
 
 </div>
-
+  
+  
 ## 📌 Contribuições
 
 [![Thales's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devbittencourt&bg_color=0d1117&color=5dade2&line=3498db&point=2980b9&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
