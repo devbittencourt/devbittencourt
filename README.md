@@ -59,6 +59,19 @@
 [![Thales's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devbittencourt&bg_color=0d1117&color=5dade2&line=3498db&point=2980b9&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+## 📌 Contribuições
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbittencourt&theme=tokyonight" alt="Gráfico de contribuições" />
+  <img src="https://github-stats.devbittencourt.dev/api?username=devbittencourt&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+</div>
+
+## 📫 Entre em contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thales-bittencourt-623989261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 
 
 
