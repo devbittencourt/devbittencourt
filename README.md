@@ -11,11 +11,13 @@
 </p>
 
 
-##
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devbittencourt&label=Visualizações&color=0e75b6&style=flat" alt="devbittencourt" />
   <a href="https://www.linkedin.com/in/thales-bittencourt-623989261/"><img src="https://img.shields.io/badge/LinkedIn-devbittencourt-blue" alt="LinkedIn" /></a>
 </p>
+
+
 ##
 
 <div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:nowrap;">
